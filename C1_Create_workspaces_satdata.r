@@ -10,7 +10,6 @@
   #databases<-c("pv54L","pv54G","pv48","hg41","hg38","hg10","hg43LZ","hg43G","hg43LT")
   databases<-c("pv62")
   databases<-c("pv66")
-  databases<-c("test") 
   
 # Specify table
   tablenames<-c("gps","diag","summary","haulout","dive")
